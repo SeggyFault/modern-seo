@@ -1,5 +1,5 @@
 const express = require('express');
-const sassMiddleware = require('node-sass-middleware');
+const sassMiddleware = require('sass-middleware');
 const path = require('path');
 const chalk = require('chalk');
 const livereload = require('livereload');
